@@ -1,4 +1,4 @@
-# Technical report on Firewall
+# Technical Report on Firewall
 
 ## Introduction
 
